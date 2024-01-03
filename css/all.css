@@ -1274,3 +1274,47 @@ footer__nav {
   color: #a5a5a5;
 }
 /*# sourceMappingURL=all.css.map */
+
+.img1 {
+/* Layout Properties */
+top: 188px;
+left: 405px;
+width: 730px;
+height: 460px;
+/* UI Properties */
+background: transparent url('img/photo-1594913785201-eb82e5c0bce4.png') 0% 0% no-repeat padding-box;
+opacity: 1; 
+}
+
+.img2 {
+/* Layout Properties */
+top: 678px;
+left: 405px;
+width: 350px;
+height: 640px;
+/* UI Properties */
+background: transparent url('img/photo-1594913785162-e678a0c23ee9.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.img3 {
+  /* Layout Properties */
+top: 678px;
+left: 785px;
+width: 350px;
+height: 640px;
+/* UI Properties */
+background: transparent url('img/photo-1594913365927-d35af29a0684.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.img4 {
+/* Layout Properties */
+top: 1348px;
+left: 405px;
+width: 730px;
+height: 460px;
+/* UI Properties */
+background: transparent url('img/photo-1594913785201-eb82e5c0bce4.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
